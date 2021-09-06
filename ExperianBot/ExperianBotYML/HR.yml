@@ -1,0 +1,260 @@
+categories:
+- hr
+conversations:
+
+- - hr
+  - select  main_op_id,title,cat1,cat2,cat3,cat4,response,heading from main_operations_MyTaj where main_op_id=1
+- - Human Resource
+  - select  main_op_id,title,cat1,cat2,cat3,cat4,response,heading from main_operations_MyTaj where main_op_id=1
+
+- - Discounts
+  - select  main_op_id,title,cat1,cat2,cat3,cat4,response,heading from main_operations_MyTaj where main_op_id=2
+- - allowance
+  - select  main_op_id,title,cat1,cat2,cat3,cat4,response,heading from main_operations_MyTaj where main_op_id=2
+- - concession
+  - select  main_op_id,title,cat1,cat2,cat3,cat4,response,heading from main_operations_MyTaj where main_op_id=2
+- - Discounts related benefit
+  - select  main_op_id,title,cat1,cat2,cat3,cat4,response,heading from main_operations_MyTaj where main_op_id=2
+- - Discounts benefit
+  - select  main_op_id,title,cat1,cat2,cat3,cat4,response,heading from main_operations_MyTaj where main_op_id=2
+- - benefit Discounts
+  - select  main_op_id,title,cat1,cat2,cat3,cat4,response,heading from main_operations_MyTaj where main_op_id=2
+
+- - Employee Assistance Program
+  - select  main_op_id,title,cat1,cat2,cat3,cat4,response,heading from main_operations_MyTaj where main_op_id=3
+- - Assistance Program
+  - select  main_op_id,title,cat1,cat2,cat3,cat4,response,heading from main_operations_MyTaj where main_op_id=3
+- - worker Assistance Program
+  - select  main_op_id,title,cat1,cat2,cat3,cat4,response,heading from main_operations_MyTaj where main_op_id=3
+- - Employee Assistance Program benefit
+  - select  main_op_id,title,cat1,cat2,cat3,cat4,response,heading from main_operations_MyTaj where main_op_id=3
+- - Employee Assistance Program related benefit
+  - select  main_op_id,title,cat1,cat2,cat3,cat4,response,heading from main_operations_MyTaj where main_op_id=3
+- - benefit Employee Assistance Program
+  - select  main_op_id,title,cat1,cat2,cat3,cat4,response,heading from main_operations_MyTaj where main_op_id=3
+
+- - Exit
+  - select  main_op_id,title,cat1,cat2,cat3,cat4,response,heading from main_operations_MyTaj where main_op_id=4
+- - departure
+  - select  main_op_id,title,cat1,cat2,cat3,cat4,response,heading from main_operations_MyTaj where main_op_id=4
+- - Exit benefit
+  - select  main_op_id,title,cat1,cat2,cat3,cat4,response,heading from main_operations_MyTaj where main_op_id=4
+- - Exit related benefit
+  - select  main_op_id,title,cat1,cat2,cat3,cat4,response,heading from main_operations_MyTaj where main_op_id=4
+- - benefit Exit
+  - select  main_op_id,title,cat1,cat2,cat3,cat4,response,heading from main_operations_MyTaj where main_op_id=4
+
+- - Generic
+  - select  main_op_id,title,cat1,cat2,cat3,cat4,response,heading from main_operations_MyTaj where main_op_id=5
+- - global
+  - select  main_op_id,title,cat1,cat2,cat3,cat4,response,heading from main_operations_MyTaj where main_op_id=5
+- - universal
+  - select  main_op_id,title,cat1,cat2,cat3,cat4,response,heading from main_operations_MyTaj where main_op_id=5
+- - Generic related benefit
+  - select  main_op_id,title,cat1,cat2,cat3,cat4,response,heading from main_operations_MyTaj where main_op_id=5
+- - Generic benefit
+  - select  main_op_id,title,cat1,cat2,cat3,cat4,response,heading from main_operations_MyTaj where main_op_id=5
+- - benefit Generic
+  - select  main_op_id,title,cat1,cat2,cat3,cat4,response,heading from main_operations_MyTaj where main_op_id=5
+
+- - Joining
+  - select  main_op_id,title,cat1,cat2,cat3,cat4,response,heading from main_operations_MyTaj where main_op_id=6
+- - Joining benefit
+  - select  main_op_id,title,cat1,cat2,cat3,cat4,response,heading from main_operations_MyTaj where main_op_id=6
+- - benefit joining
+  - select  main_op_id,title,cat1,cat2,cat3,cat4,response,heading from main_operations_MyTaj where main_op_id=6
+- - joining related benefit
+  - select  main_op_id,title,cat1,cat2,cat3,cat4,response,heading from main_operations_MyTaj where main_op_id=6
+
+- - Leaves & Attendance benefit
+  - select  main_op_id,title,cat1,cat2,cat3,cat4,response,heading from main_operations_MyTaj where main_op_id=7
+- - Leaves
+  - select  main_op_id,title,cat1,cat2,cat3,cat4,response,heading from main_operations_MyTaj where main_op_id=7
+- - Attendance
+  - select  main_op_id,title,cat1,cat2,cat3,cat4,response,heading from main_operations_MyTaj where main_op_id=7
+- - Leaves & Attendance related benefit
+  - select  main_op_id,title,cat1,cat2,cat3,cat4,response,heading from main_operations_MyTaj where main_op_id=7
+- - benefit Leaves & Attendance
+  - select  main_op_id,title,cat1,cat2,cat3,cat4,response,heading from main_operations_MyTaj where main_op_id=7
+
+- - Recruitment & Selection related benefit
+  - select  main_op_id,title,cat1,cat2,cat3,cat4,response,heading from main_operations_MyTaj where main_op_id=8
+- - Recruitment
+  - select  main_op_id,title,cat1,cat2,cat3,cat4,response,heading from main_operations_MyTaj where main_op_id=8
+- - Selection
+  - select  main_op_id,title,cat1,cat2,cat3,cat4,response,heading from main_operations_MyTaj where main_op_id=8
+- - Recruitment & Selection benefit
+  - select  main_op_id,title,cat1,cat2,cat3,cat4,response,heading from main_operations_MyTaj where main_op_id=8
+- - benefit Recruitment & Selection
+  - select  main_op_id,title,cat1,cat2,cat3,cat4,response,heading from main_operations_MyTaj where main_op_id=8
+
+- - Reward and Recognition related benefit
+  - select  main_op_id,title,cat1,cat2,cat3,cat4,response,heading from main_operations_MyTaj where main_op_id=9
+- - Reward
+  - select  main_op_id,title,cat1,cat2,cat3,cat4,response,heading from main_operations_MyTaj where main_op_id=9
+- - Recognition
+  - select  main_op_id,title,cat1,cat2,cat3,cat4,response,heading from main_operations_MyTaj where main_op_id=9
+- - Reward and Recognition benefit
+  - select  main_op_id,title,cat1,cat2,cat3,cat4,response,heading from main_operations_MyTaj where main_op_id=9
+- - benefit Reward and Recognition
+  - select  main_op_id,title,cat1,cat2,cat3,cat4,response,heading from main_operations_MyTaj where main_op_id=9
+
+- - Statutory Compliances
+  - select  main_op_id,title,cat1,cat2,cat3,cat4,response,heading from main_operations_MyTaj where main_op_id=10
+- - Compliances Statutory
+  - select  main_op_id,title,cat1,cat2,cat3,cat4,response,heading from main_operations_MyTaj where main_op_id=10
+- - Statutory Compliances related benefit
+  - select  main_op_id,title,cat1,cat2,cat3,cat4,response,heading from main_operations_MyTaj where main_op_id=10
+- - Statutory Compliances benefit
+  - select  main_op_id,title,cat1,cat2,cat3,cat4,response,heading from main_operations_MyTaj where main_op_id=10
+- - benefit Statutory Compliances
+  - select  main_op_id,title,cat1,cat2,cat3,cat4,response,heading from main_operations_MyTaj where main_op_id=10
+
+- - Work Related Benefits
+  - select  main_op_id,title,cat1,cat2,cat3,cat4,response,heading from main_operations_MyTaj where main_op_id=11
+- - Work Benefits
+  - select  main_op_id,title,cat1,cat2,cat3,cat4,response,heading from main_operations_MyTaj where main_op_id=11
+- - Benefits Work Related
+  - select  main_op_id,title,cat1,cat2,cat3,cat4,response,heading from main_operations_MyTaj where main_op_id=11
+
+- - World Privileges benefit
+  - select  main_op_id,title,cat1,cat2,cat3,cat4,response,heading from main_operations_MyTaj where main_op_id=12
+- - benefit Privileges World
+  - select  main_op_id,title,cat1,cat2,cat3,cat4,response,heading from main_operations_MyTaj where main_op_id=12
+
+############################### Sub-Benefits data train
+- - Taj Friends Family Policy
+  - select op_id,Location_id,HINT_TEXT,Sub_Benefits_Type,Benefits_Type  from operations_MyTaj where Sub_Benefits_id=1
+- - Taj Friends Family Policy
+  - select op_id,Location_id,HINT_TEXT,Sub_Benefits_Type,Benefits_Type  from operations_MyTaj where Sub_Benefits_id=1
+- - Policy Taj Friends Family
+  - select op_id,Location_id,HINT_TEXT,Sub_Benefits_Type,Benefits_Type  from operations_MyTaj where Sub_Benefits_id=1
+- - Policy Taj Friends
+  - select op_id,Location_id,HINT_TEXT,Sub_Benefits_Type,Benefits_Type  from operations_MyTaj where Sub_Benefits_id=1
+
+- - Year Associate Honeymoon Stay
+  - select op_id,Location_id,HINT_TEXT,Sub_Benefits_Type,Benefits_Type  from operations_MyTaj where Sub_Benefits_id=2
+- - Honeymoon Stay
+  - select op_id,Location_id,HINT_TEXT,Sub_Benefits_Type,Benefits_Type  from operations_MyTaj where Sub_Benefits_id=2
+- - Honeymoon Stay Year Associate
+  - select op_id,Location_id,HINT_TEXT,Sub_Benefits_Type,Benefits_Type  from operations_MyTaj where Sub_Benefits_id=2
+
+- - Year Associate Retirement Stay
+  - select op_id,Location_id,HINT_TEXT,Sub_Benefits_Type,Benefits_Type  from operations_MyTaj where Sub_Benefits_id=3
+- - Retirement Stay
+  - select op_id,Location_id,HINT_TEXT,Sub_Benefits_Type,Benefits_Type  from operations_MyTaj where Sub_Benefits_id=3
+- - Retirement Stay Year Associate
+  - select op_id,Location_id,HINT_TEXT,Sub_Benefits_Type,Benefits_Type  from operations_MyTaj where Sub_Benefits_id=3
+
+- - Employee Assistance Program
+  - select op_id,Location_id,HINT_TEXT,Sub_Benefits_Type,Benefits_Type  from operations_MyTaj where Sub_Benefits_id=4
+- - Assistance Program
+  - select op_id,Location_id,HINT_TEXT,Sub_Benefits_Type,Benefits_Type  from operations_MyTaj where Sub_Benefits_id=4
+- - Program Assistance
+  - select op_id,Location_id,HINT_TEXT,Sub_Benefits_Type,Benefits_Type  from operations_MyTaj where Sub_Benefits_id=4
+
+- - Separation
+  - select op_id,Location_id,HINT_TEXT,Sub_Benefits_Type,Benefits_Type  from operations_MyTaj where Sub_Benefits_id=5
+
+- - Office Support
+  - select op_id,Location_id,HINT_TEXT,Sub_Benefits_Type,Benefits_Type  from operations_MyTaj where Sub_Benefits_id=6
+- - Support Office
+  - select op_id,Location_id,HINT_TEXT,Sub_Benefits_Type,Benefits_Type  from operations_MyTaj where Sub_Benefits_id=6
+
+- - Staff Facilities
+  - select op_id,Location_id,HINT_TEXT,Sub_Benefits_Type,Benefits_Type  from operations_MyTaj where Sub_Benefits_id=7
+- - Facilities Staff
+  - select op_id,Location_id,HINT_TEXT,Sub_Benefits_Type,Benefits_Type  from operations_MyTaj where Sub_Benefits_id=7
+- - Facility Staff
+  - select op_id,Location_id,HINT_TEXT,Sub_Benefits_Type,Benefits_Type  from operations_MyTaj where Sub_Benefits_id=7
+
+- - Documentation
+  - select op_id,Location_id,HINT_TEXT,Sub_Benefits_Type,Benefits_Type  from operations_MyTaj where Sub_Benefits_id=8
+
+- - Joining Day
+  - select op_id,Location_id,HINT_TEXT,Sub_Benefits_Type,Benefits_Type  from operations_MyTaj where Sub_Benefits_id=9
+- - Day Joining
+  - select op_id,Location_id,HINT_TEXT,Sub_Benefits_Type,Benefits_Type  from operations_MyTaj where Sub_Benefits_id=9
+
+- - Pre Employment
+  - select op_id,Location_id,HINT_TEXT,Sub_Benefits_Type,Benefits_Type  from operations_MyTaj where Sub_Benefits_id=10
+- - Employment pre
+  - select op_id,Location_id,HINT_TEXT,Sub_Benefits_Type,Benefits_Type  from operations_MyTaj where Sub_Benefits_id=10
+
+- - Taj Swagat
+  - select  main_op_id,title,cat1,cat2,cat3,cat4,response,heading from main_operations_MyTaj where main_op_id=14
+- - Taj Swagat joining
+  - select op_id,Location_id,HINT_TEXT,Sub_Benefits_Type,Benefits_Type  from operations_MyTaj where Sub_Benefits_id=11
+- - Taj Swagat Work Related Benefits
+  - select op_id,Location_id,HINT_TEXT,Sub_Benefits_Type,Benefits_Type  from operations_MyTaj where Sub_Benefits_id=19
+- - joining Taj Swagat
+  - select op_id,Location_id,HINT_TEXT,Sub_Benefits_Type,Benefits_Type  from operations_MyTaj where Sub_Benefits_id=11
+- - Work Related Benefits Taj Swagat
+  - select op_id,Location_id,HINT_TEXT,Sub_Benefits_Type,Benefits_Type  from operations_MyTaj where Sub_Benefits_id=19
+
+- - Leaves & Attendance
+  - select op_id,Location_id,HINT_TEXT,Sub_Benefits_Type,Benefits_Type  from operations_MyTaj where Sub_Benefits_id=12
+- - Leaves
+  - select op_id,Location_id,HINT_TEXT,Sub_Benefits_Type,Benefits_Type  from operations_MyTaj where Sub_Benefits_id=12
+- - Attendance
+  - select op_id,Location_id,HINT_TEXT,Sub_Benefits_Type,Benefits_Type  from operations_MyTaj where Sub_Benefits_id=12
+
+- - Recruitment & Selection
+  - select op_id,Location_id,HINT_TEXT,Sub_Benefits_Type,Benefits_Type  from operations_MyTaj where Sub_Benefits_id=13
+- - Recruitment
+  - select op_id,Location_id,HINT_TEXT,Sub_Benefits_Type,Benefits_Type  from operations_MyTaj where Sub_Benefits_id=13
+- - Selection
+  - select op_id,Location_id,HINT_TEXT,Sub_Benefits_Type,Benefits_Type  from operations_MyTaj where Sub_Benefits_id=13
+
+- - Reward and Recognition
+  - select op_id,Location_id,HINT_TEXT,Sub_Benefits_Type,Benefits_Type  from operations_MyTaj where Sub_Benefits_id=14
+- - Reward
+  - select op_id,Location_id,HINT_TEXT,Sub_Benefits_Type,Benefits_Type  from operations_MyTaj where Sub_Benefits_id=14
+- - Recognition
+  - select op_id,Location_id,HINT_TEXT,Sub_Benefits_Type,Benefits_Type  from operations_MyTaj where Sub_Benefits_id=14
+
+- - Gratuity
+  - select op_id,Location_id,HINT_TEXT,Sub_Benefits_Type,Benefits_Type  from operations_MyTaj where Sub_Benefits_id=15
+
+- - Provident fund
+  - select op_id,Location_id,HINT_TEXT,Sub_Benefits_Type,Benefits_Type  from operations_MyTaj where Sub_Benefits_id=16
+- - pf
+  - select op_id,Location_id,HINT_TEXT,Sub_Benefits_Type,Benefits_Type  from operations_MyTaj where Sub_Benefits_id=16
+
+- - Medical Examination
+  - select op_id,Location_id,HINT_TEXT,Sub_Benefits_Type,Benefits_Type  from operations_MyTaj where Sub_Benefits_id=17
+- - Medical Exam
+  - select op_id,Location_id,HINT_TEXT,Sub_Benefits_Type,Benefits_Type  from operations_MyTaj where Sub_Benefits_id=17
+- - Examination Medical
+  - select op_id,Location_id,HINT_TEXT,Sub_Benefits_Type,Benefits_Type  from operations_MyTaj where Sub_Benefits_id=17
+
+- - Six Weekly Offs month
+  - select op_id,Location_id,HINT_TEXT,Sub_Benefits_Type,Benefits_Type  from operations_MyTaj where Sub_Benefits_id=18
+- - Six Weekly Offs
+  - select op_id,Location_id,HINT_TEXT,Sub_Benefits_Type,Benefits_Type  from operations_MyTaj where Sub_Benefits_id=18
+- - Weekly Offs month
+  - select op_id,Location_id,HINT_TEXT,Sub_Benefits_Type,Benefits_Type  from operations_MyTaj where Sub_Benefits_id=18
+- - Six Weekly holiday month
+  - select op_id,Location_id,HINT_TEXT,Sub_Benefits_Type,Benefits_Type  from operations_MyTaj where Sub_Benefits_id=18
+
+- - Uniform Allowance
+  - select op_id,Location_id,HINT_TEXT,Sub_Benefits_Type,Benefits_Type  from operations_MyTaj where Sub_Benefits_id=20
+- - Allowance uniform
+  - select op_id,Location_id,HINT_TEXT,Sub_Benefits_Type,Benefits_Type  from operations_MyTaj where Sub_Benefits_id=20
+- - identical Allowance
+  - select op_id,Location_id,HINT_TEXT,Sub_Benefits_Type,Benefits_Type  from operations_MyTaj where Sub_Benefits_id=20
+
+- - VIBES
+  - select op_id,Location_id,HINT_TEXT,Sub_Benefits_Type,Benefits_Type  from operations_MyTaj where Sub_Benefits_id=21
+
+- - World Privileges
+  - select op_id,Location_id,HINT_TEXT,Sub_Benefits_Type,Benefits_Type  from operations_MyTaj where Sub_Benefits_id=22
+- - Privileges World
+  - select op_id,Location_id,HINT_TEXT,Sub_Benefits_Type,Benefits_Type  from operations_MyTaj where Sub_Benefits_id=22
+
+#- - entitlement policy
+#  - select  main_op_id,title,cat1,cat2,cat3,cat4,response,heading from main_operations_MyTaj where main_op_id=15
+#- - policy entitlement
+#  - select  main_op_id,title,cat1,cat2,cat3,cat4,response,heading from main_operations_MyTaj where main_op_id=15
+
+

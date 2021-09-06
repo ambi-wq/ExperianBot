@@ -1,0 +1,1554 @@
+categories:
+- hr
+conversations:
+- - Charges on Policy
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=1
+- - Any other Charges Policy
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=1
+- - charges applicable policy
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=1
+- - extra charges applicable policy
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=1
+- - Other applicable charges policy
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=1
+- - policy applicable charges
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=1
+- - taxes applicable policy
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=1
+
+- - compliment colleague form restaurant feedback valid entered stars
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=2
+- - restaurant feedback form valid entered STARS
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=2
+- - compliment restaurant feedback form valid entered STARS
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=2
+- - entered STARS restaurant feedback form valid
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=2
+
+- - queries provided associate kept confidential
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=3
+- - Associate Queries Kept Confidential
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=3
+- - associate provide queries kept confidential
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=3
+
+- - services provided Employee Assistance program chargeable
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=4
+- - Employee Assistance program provide services chargeable
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=4
+- - chargeable Employee Assistance program provide services
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=4
+
+- - time Taj Swagat Starts
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=5
+- - start time Taj Swagat
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=5
+- - starting time Taj Swagat
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=5
+- - taj swagat start time
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=5
+- - taj swagat arrival time
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=5
+- - arrival time taj swagat
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=5
+
+- - entitlement Honeymoon Policy
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=6
+- - Honeymoon Policy Entitlement
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=6
+- - Policy Entitlement Honeymoon
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=6
+- - honeymoon entitlement policy
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=6
+- - entitlement policy honeymoon
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=6
+
+- - eligible Honeymoon Policy
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=7
+- - Honeymoon Policy Eligibility
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=7
+- - Eligibility Honeymoon Policy
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=7
+- - Criteria Honeymoon Policy
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=7
+- - eligible Policy Honeymoon
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=7
+- - eligible Policy Honeymoon
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=7
+- - Honeymoon Policy eligible
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=7
+- - eligible Policy
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=7
+- - Policy eligible
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=7
+
+- - additional off carried forward
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=8
+- - carried forward additional off
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=8
+- - carried forward extra off
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=8
+
+- - additional offs clubbed off
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=9
+- - Clubbed additional offs other off
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=9
+- - Combine additional offs other off
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=9
+- - join additional offs other off
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=9
+- - additional offs off Clubbed
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=9
+
+- - Associate claim reimbursement go break
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=10
+- - Associate claim reimbursement
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=10
+- - claim reimbursement Associate go break
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=10
+- - claim reimbursement break
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=10
+- - claim the reimbursement associate
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=10
+
+- - apply Attendance personal desktop mobile
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=11
+- - apply Attendance personal desktop
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=11
+- - apply Attendance mobile
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=11
+- - Attendance apply personal desktop mobile
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=11
+
+- - paternity leave combined other kind leave
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=12
+- - Combine paternity leave kind leave
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=12
+- - clubbed paternity leave kind leave
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=12
+- - add paternity leave kind leave
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=12
+
+- - visiting doctor hotel staff
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=13
+- - hotel staff visiting doctor
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=13
+- - Visiting doctor our hotel staff
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=13
+
+- - Provide Lockers Sharing Basis
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=14
+- - Sharing Basis provide lockers
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=14
+- - Sharing Basis lockers provide
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=14
+- - lockers provide Sharing Basis
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=14
+
+- - send any regret mail candidates qualify suitable candidate position
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=15
+- - Send any regret mail rejected candidate
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=15
+- - Send any regret mail unqualified candidate suitable position
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=15
+- - Send mail unqualified candidate suitable position
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=15
+- - Sending mail unqualified candidate suitable position
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=15
+
+- - get benefit referring candidate
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=16
+- - Benefit referring candidate
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=16
+- - referring candidate Benefit
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=16
+- - allowances referring candidate
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=16
+- - advantage referring candidate
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=16
+
+- - days induction organized Joinee
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=17
+- - Total days induction organized New Joinee
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=17
+- - induction organized New Joinee
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=17
+- - organized induction New Joinee
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=17
+- - days induction courses organized Joinee
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=17
+
+- - get all clearance related forms
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=18
+- - clearance related forms
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=18
+- - clearance related forms get
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=18
+
+- - Gratuity calculated component salary
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=19
+- - Component salary Gratuity calculated
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=19
+- - calculated Gratuity Component salary
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=19
+- - Gratuity calculated factor salary
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=19
+- - factor salary Gratuity calculated
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=19
+
+- - additional offs utilized associate
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=20
+- - Associate utilized additional offs
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=20
+- - utilized additional offs Associate
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=20
+- - additional offs exploit associate
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=20
+
+- - associate access employee assistance program
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=21
+- - Access employee assistance program associate
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=21
+- - associate reach employee assistance program
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=21
+- - reach employee assistance program associate
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=21
+
+- - associate fill compliment colleague through myTaj
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=22
+- - Associate fill compliment colleague through myTaj
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=22
+- - Through myTaj Associate fill compliment colleague
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=22
+
+- - associate provide suggestions
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=23
+- - provide suggestions associate
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=23
+- - associate provide proposal
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=23
+- - provide proposal associate
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=23
+
+- - apply internal position
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=24
+- - internal position apply
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=24
+
+- - apply leave Executive Grade
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=25
+- - Apply leave Executive Grade employee
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=25
+- - Executive Grade Apply leave
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=25
+
+- - correct details HRMS Records
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=26
+- - Edit Employee details HRMS Records
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=26
+- - edit details HRMS Records
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=26
+
+- - get new badge lose
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=27
+- - Getting new badge After lose
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=27
+- - new badge get lose
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=27
+- - new badge lose
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=27
+- - lose new badge
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=27
+
+- - get new ID Card lose Permanent Temporary ID Card
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=28
+- - get new ID Card lose Permanent ID Card
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=28
+- - get new ID Card lose Temporary ID Card
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=28
+- - Getting new ID Card
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=28
+- - new ID Card lose Permanent Temporary ID Card
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=28
+
+- - get lapel pin lost
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=29
+- - Get lapel pin After lost
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=29
+- - Getting lapel pin After lost
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=29
+- - lapel pin lost
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=29
+- - lost lapel pin
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=29
+
+- - get Form 16
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=30
+- - Form 16 get
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=30
+- - Form 16
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=30
+
+- - know about internal open positions
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=31
+- - know internal open positions
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=31
+- - heard about internal open positions
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=31
+- - internal open positions
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=31
+
+- - raise need hiring suitable candidate open position
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=32
+- - Need hiring suitable candidate open position raise
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=32
+- - hiring suitable candidate open position need
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=32
+- - increase need hiring suitable candidate open position
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=32
+
+- - redeem amount achieved different levels
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=33
+- - different levels redeem amount achieved
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=33
+- - various levels redeem amount achieved
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=33
+- - redeem amount achieved
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=33
+
+- - new joinee enter Staff Entrance permanent ID Card
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=34
+- - enter Staff Entrance permanent ID Card joinee
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=34
+- - joinee enter Staff Entrance permanent ID Card
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=34
+
+- - Add name Employee spouse children parent HRMS records
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=35
+- - Add name Employee spouse HRMS records
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=35
+- - Add name Employee parent HRMS records
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=35
+- - Add name Employee children HRMS records
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=35
+- - Employee spouse children parent add name HRMS records
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=35
+- - Adding name Employee spouse children parent HRMS records
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=35
+
+- - get letter Address Proof
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=36
+- - Address Proof get letter
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=36
+- - obtain letter Address Proof
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=36
+
+- - Get letter VISA purpose
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=37
+- - VISA purpose Get letter
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=37
+- - obtain letter VISA purpose
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=37
+
+- - attendance recorded
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=38
+- - recorded attendance
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=38
+- - System Marking Attendance
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=38
+- - Marking Attendance system
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=38
+
+- - New Joinee introduced hotel
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=39
+- - Joinee introduced hotel
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=39
+- - hotel introduced joinee
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=39
+
+- - New Joinee welcomed HODs General Manager Resident Manager
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=40
+- - New Joinee welcomed HODs
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=40
+- - New Joinee welcomed General Manager
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=40
+- - New Joinee welcomed Resident Manager
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=40
+- - welcomed HODs General Manager Resident Manager New Joinee
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=40
+
+- - new joinee welcomed hotel
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=41
+- - welcomed hotel new joinee
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=41
+- - Process New joinee welcomed hotel
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=41
+- - welcome procedure new joinee hotel
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=41
+
+- - rounds interview place recruitment
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=42
+- - Total rounds interview recruitment
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=42
+- - interview rounds recruitment
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=42
+
+- - session applicable Employee Assistance Program
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=43
+- - applicable session Employee Assistance Program
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=43
+- - total session applicable Employee Assistance Program
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=43
+
+- - percentage amount Provident Fund
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=44
+- - percentage amount deducted Provident Fund
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=44
+- - deducted percentage amount Provident Fund
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=44
+- - Percentage amount goes Provident Fund
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=44
+- - percentage amount pf
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=44
+- - percentage amount goes pf
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=44
+
+- - apply Gratuity
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=45
+- - Gratuity apply
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=45
+
+- - mark attendance discrepancy thumb impression forgot punch in punch out
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=46
+- - mark attendance discrepancy thumb impression
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=46
+- - Mark attendance case discrepancy
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=46
+
+- - maintain MRF Database
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=47
+- - MRF Database maintain
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=47
+
+- - get username password Presence Attendance System
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=48
+- - get username Presence Attendance System
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=48
+- - get password Presence Attendance System
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=48
+- - obtain username password Presence Attendance System
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=48
+- - username password Presence Attendance System
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=48
+
+- - come know about Open Position
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=49
+- - know about Open Position
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=49
+- - come Open Position
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=49
+
+- - joined company middle leave cycle leave entitled calculated
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=50
+- - Calculation Leave entitled
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=50
+- - leave entitled calculated
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=50
+- - Calculate Leave entitled
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=50
+
+- - need submit resume submit same
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=51
+- - need submit resume
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=51
+
+- - authorization form availing Friends Family mandatory submit check
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=52
+- - Authorization form mandatory submit check in
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=52
+- - authorization form availing Family mandatory submit check
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=52
+
+- - modification cancellation possible
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=53
+- - modification possible
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=53
+- - cancellation possible
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=53
+
+- - data bank maintained CVs
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=54
+- - maintained CVs data bank
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=54
+
+- - link access details services provided under Employee Assistance Program
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=55
+- - Link Access details services provided under Employee Assistance Program
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=55
+- - Access details services provided under Employee Assistance Program link
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=55
+
+- - mail sent candidate come interview
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=56
+- - Any mail sent candidate interview
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=56
+
+- - record kept number cases registered under Employee Assistance Program
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=57
+- - Record For number cases registered under Employee Assistance Program
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=57
+
+- - Notice pay recovery Basic Salary Gross Salary
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=58
+- - Notice pay recovery Basic Salary
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=58
+- - Notice pay recovery Gross Salary
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=58
+- - Notice pay recovery
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=58
+
+- - Resignation letter submitted
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=59
+- - submitted Resignation letter
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=59
+- - submit Resignation letter
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=59
+
+- - Background Verification Form sent
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=60
+- - sent Background Verification Form
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=60
+- - Background Verification Form
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=60
+
+- - category points STARS
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=61
+- - STARS category points
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=61
+
+- - different levels points STARS
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=62
+- - STARS different levels points
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=62
+- - various levels points STARS
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=62
+
+- - documents provided associate
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=63
+- - associate documents provided
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=63
+- - associate provided documents
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=63
+
+- - documents required availing Friend Family Rate Stay
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=64
+- - required documents availing Friend Family Rate Stay
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=64
+- - required documents availing Family Rate Stay
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=64
+
+- - documents filled New Joinee process same
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=65
+- - documents filled New Joinee
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=65
+- - process New Joinee
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=65
+
+- - facilities awarded MD Club Winner
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=66
+- - Awarded facilities MD Club Winner
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=66
+- - MD Club Winner Awarded facilities
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=66
+- - MD Club Winner facilities Awarded
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=66
+- - benefit awarded MD Club Winner
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=66
+- - MD Club Winner benefit
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=66
+
+- - formalities done Pre Employment
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=67
+- - Pre Employment formalities
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=67
+- - formalities Pre Employment
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=67
+- - procedure Pre Employment
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=67
+
+- - forms filled clearance
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=68
+- - Forms filled time clearance
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=68
+
+- - four ways achieving points STARS
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=69
+- - STARS four ways achieving points
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=69
+- - achieving Four ways points STARS
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=69
+
+- - issues covered under services provided Employee Assistance Program
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=70
+- - services provided Employee Assistance Program under issues covered
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=70
+
+- - items submitted HR during time clearance
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=71
+- - During clearance items submitted HR
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=71
+- - items submitted HR clearance
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=71
+
+- - other source recruitment use
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=72
+- - source recruitment use
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=72
+- - different recruitment source use
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=72
+- - different source recruitment use
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=72
+
+- - platforms Recognition
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=73
+- - Recognition platforms
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=73
+
+- - information shared inviting interview mail
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=74
+- - Shared information inviting interview mail
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=74
+- - inviting interview mail Shared information
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=74
+
+- - 1 1 Help Employee Assistance Program available Employees
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=75
+- - one Help Employee Assistance Program available Employees
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=75
+- - Help Employee Assistance Program available Employees
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=75
+
+- - amount deduction Dining Area Usage
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=76
+- - Dining Area Usage deduction amount
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=76
+- - deduction amount Dining Area Usage
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=76
+
+- - amount notice period paid associate serving notice period
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=77
+- - Amount notice period paid associate
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=77
+- - associate paid amount notice period
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=77
+
+- - date attendance sent department verification
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=78
+- - attendance sent department verification date
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=78
+- - department verification date
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=78
+
+- - duration YOA Honeymoon Stay
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=79
+- - YOA Honeymoon Stay
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=79
+- - Honeymoon Stay YOA
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=79
+- - period YOA Honeymoon Stay
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=79
+
+- - duration YOA-Retirement Stay
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=80
+- - YOA-Retirement Stay duration
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=80
+- - YOA-Retirement Stay
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=80
+- - YOA-Retirement Stay period
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=80
+- - period YOA-Retirement Stay
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=80
+
+- - policy entitlement hotel
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=81
+- - hotel policy entitlement
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=81
+
+- - entitlement under Six Weekly offs month
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=82
+- - Six Weekly offs month entitlement
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=82
+
+- - leave cycle processing salary
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=83
+- - processing salary leave cycle
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=83
+
+- - objective program
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=84
+- - program objective
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=84
+- - purpose program
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=84
+- - motive program
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=84
+
+- - process Medical Examination
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=85
+- - Medical Examination process
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=85
+- - Medical Examination procedure
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=85
+- - procedure Medical Examination
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=85
+
+- - process New joinee Attendance
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=86
+- - procedure New joinee Attendance
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=86
+- - New joinee Attendance process
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=86
+
+- - process withdrawing Provident fund tenure service
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=87
+- - procedure withdrawing Provident fund
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=87
+- - procedure withdrawing Provident fund tenure service
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=87
+- - process withdrawing pf tenure service
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=87
+- - procedure withdrawing pf
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=87
+
+- - process outstation candidate
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=88
+- - procedure outstation candidate
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=88
+- - outstation candidate procedure
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=88
+- - outstation candidate process
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=88
+
+- - process Bill payment Friends Family Rate Stay
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=89
+- - Bill payment process Friends Family Rate Stay
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=89
+- - Bill payment process Family Rate Stay
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=89
+
+- - process Booking FNF
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=90
+- - Booking FNF process
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=90
+- - Booking FNF procedure
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=90
+- - procedure Booking FNF
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=90
+
+- - Process getting Uniform Measurement associate
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=91
+- - Procedure getting Uniform Measurement associate
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=91
+- - getting Uniform Measurement procedure associate
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=91
+- - getting Uniform Measurement process associate
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=91
+
+- - withdrawal Provident Fund leaving company
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=92
+- - Process withdrawal Provident Fund leaving company
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=92
+- - Process withdrawal Provident Fund
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=92
+- - withdrawal pf leaving company
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=92
+- - Process withdrawal pf leaving company
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=92
+
+- - process apply YOA-Honeymoon Stay
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=93
+- - procedure apply YOA-Honeymoon Stay
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=93
+- - apply YOA-Honeymoon Stay process
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=93
+- - apply YOA-Honeymoon Stay
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=93
+
+- - process apply YOA-Retirement Stay
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=94
+- - procedure apply YOA-Retirement Stay
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=94
+- - apply YOA-Retirement Stay process
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=94
+- - apply YOA-Retirement Stay procedure
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=94
+
+- - process claim Uniform Allowance
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=95
+- - claim Uniform Allowance
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=95
+- - procedure claim Uniform Allowance
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=95
+- - claim Uniform Allowance process
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=95
+
+- - timeline fill vacant position
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=96
+- - fill vacant position timeline
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=96
+- - fill vacant position deadline
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=96
+- - deadline fill vacant position
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=96
+
+- - recognition covered under Town hall
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=97
+- - covered recognition under Town hall
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=97
+- - covered recognition under Town hall
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=97
+
+- - type offering provided program
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=98
+- - offering type provided program
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=98
+
+- - included Guest Comment
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=99
+- - Guest Comment included
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=99
+- - present Guest Comment
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=99
+
+- - associate get experience letter
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=100
+- - get experience letter associate
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=100
+- - get experience letter
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=100
+- - obtain experience letter
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=100
+- - associate obtain experience letter
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=100
+
+- - employee come for his/her PF Withdrawal
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=101
+- - employee PF Withdrawal
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=101
+- - come higher pf withdrawal
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=101
+
+- - Employee avail room nights awarded in MD
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=102
+- - avail room nights awarded
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=102
+
+- - Eligibility for Gratuity
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=103
+- - Eligibile Gratuity
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=103
+- - Gratuity Eligibility
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=103
+
+- - Get deducted amount from salary due to non-submission leave
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=104
+- - non-submission of leave
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=104
+- - deducted amount from salary because non-submission of leave
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=104
+- - able deducted salary nonsubmission leave
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=104
+
+- - clearance
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=105
+- - clearance done
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=105
+- - clearance day
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=105
+
+- - Issued Experience letter to an associate
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=106
+- - Experience letter associate
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=106
+
+- - Calculated privilege leave amount
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=107
+- - leave amount privilege
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=107
+- - privilege leave calculated
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=107
+
+- - Changed employee lapel pin color
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=108
+- - Change lapel pin color
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=108
+- - lapel pin color changed
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=108
+
+- - Organized Taj Swagat
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=109
+- - taj swagat organized
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=109
+
+- - Get gratuity amount
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=110
+- - Redeem gratuity amount
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=110
+
+- - Get UAN Number
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=111
+- - UAN Number
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=111
+- - PF Account Number
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=111
+
+- - Available Gratuity form
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=112
+- - Gratuity form availability
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=112
+
+- - Organized MD Club Ceremony
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=113
+- - MD Club Ceremony
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=113
+- - md club ceremony organized
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=113
+
+- - Require form to transfer Provident Fund
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=114
+- - form transfer Provident Fund
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=114
+- - PF transfer form
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=114
+- - form to transfer PF
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=114
+
+- - Level of STARS are facilitated in Unit
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=115
+- - Level STARS facilitated Unit
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=115
+- - Level STARS Unit
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=115
+
+- - Applicable under Uniform Allowance policy
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=116
+- - Uniform Allowance policy
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=116
+- - Allowance policy
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=116
+
+- - Eligibility Taj Friends Family policy
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=117
+- - Taj Friends and Family policy
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=117
+- - eligible Taj Friends Family policy
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=117
+
+
+- - Contact person for Recruitment
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=118
+- - Recruitment person to contact
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=118
+
+- - Who looks Expense of the MD Club Ceremony
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=119
+- - Expense MD Club Ceremony
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=119
+- - MD Club Ceremony
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=119
+- - looks expense md club ceremony ice travel accommodation
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=119
+
+- - Contact regarding PF Query
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=120
+- - PF Query contact person
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=120
+- - Contact regarding Provident Fund Query
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=120
+
+- - Approve Suggestion provided Associate
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=121
+- - Approve Suggestion Associate
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=121
+
+- - Target audience STARS Recognition
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=122
+- - STARS Recognition Target audience
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=122
+
+- - Contact for Experience letter
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=123
+- - Experience letter
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=123
+
+- - Contact related to Gratuity
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=124
+- - Contact Gratuity
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=124
+
+- - Background Verification Tie Up
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=125
+- - Background Verification
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=125
+
+- - Additional off be in-cashed
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=126
+- - Additional leave in-cashed
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=126
+
+- - Amazon Vouchers instead Product available STARS Portal
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=127
+- - Amazon Vouchers STARS Portal
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=127
+- - Amazon Vouchers instead Product available
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=127
+
+- - Rectify our attendance
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=128
+- - Rectify attendance
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=128
+- - rectify attendance case missed punch snout
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=128
+
+- - Apply festival off system
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=129
+- - update festival off system
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=129
+- - insert festival off system
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=129
+
+- - Evaluated New Joinee on basis Induction
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=130
+- - Evaluate New Joinee Induction
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=130
+- - new joined evaluated basis induction
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=130
+
+- - Process after Induction completed
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=131
+- - Process after Induction
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=131
+- - Process post Induction
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=131
+- - happens induction completed
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=131
+
+- - Link to apply leave in the system for Staff /FTC
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=132
+- - apply leave for staff
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=132
+- - Link to apply for leave
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=132
+- - leave application link
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=132
+
+- - Process getting the MRF APPROVED
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=133
+- - Process MRF approval
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=133
+- - MRF approval
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=133
+
+- - Process Uploading Resume Friend
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=134
+- - Uploading Resume Friend
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=134
+- - Refer Friend Resume
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=134
+
+- - Process of VIBES
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=135
+- - Process VIBES
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=135
+- - VIBES
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=135
+
+- - Referral policy
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=136
+- - policy for Referral
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=136
+
+- - Selection Process
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=137
+- - Process selection
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=137
+
+- - Get referral amount for Associate
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=138
+- - referral amount Associate
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=138
+- - referral amount
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=138
+- - associate referral
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=138
+
+- - Executive entitled to get their LTA amount
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=139
+- - Executive LTA amount
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=139
+- - Executive entitled get LTA amount
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=139
+
+- - New joinee claim medical reimbursement for pre medical test
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=140
+- - New joinee claim medical reimbursement medical test
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=140
+- - New joinee claim medical reimbursement
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=140
+
+- - Break lock in Ladies Locker
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=141
+- - Break lock Ladies Locker
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=141
+- - Ladies Locker Break lock
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=141
+- - break lock ladies locker case loses key
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=141
+
+- - Required documents during time clearance
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=142
+- - Required documents clearance
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=142
+- - clearance documents required
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=142
+- - documents required time clearance
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=142
+
+- - Drop timings for the associates
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=143
+- - Drop timings associates
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=143
+- - associates Drop timings
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=143
+
+- - Declaration signed while issuing Pepper Spray to female associates
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=144
+- - Declaration issuing Pepper Spray to female associates
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=144
+- - issuing Pepper Spray to female associates
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=144
+- - issuing Pepper Spray
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=144
+
+- - Process someone lose Pepper Spray
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=145
+- - Pepper Spray lost
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=145
+
+- - Process to cancel the applied leaves
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=146
+- - cancel applied leaves
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=146
+- - process cancel leaves applied system
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=146
+
+- - Apply for Salary Advance
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=147
+- - Advance Salary
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=147
+
+- - Drop points for males and females
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=148
+- - Drop points for males
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=148
+- - Drop points for females
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=148
+
+- - Maximum amount to be paid as Salary Advance
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=149
+- - Maximum amount Salary Advance
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=149
+- - Maximum Advance Salary
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=149
+
+- - Details to be submitted for dropping
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=150
+- - Details dropping
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=150
+- - dropping Details
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=150
+
+- - Form given new joinee Uniform
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=151
+- - Form new joinee Uniform
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=151
+- - Form Uniform new joinee
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=151
+
+- - Apply leave Staff Grade Employee
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=152
+- - Apply Staff Grade Employee leave
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=152
+
+- - Total vouchers  purchase each employee
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=153
+- - employee Total vouchers purchase
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=153
+- - vouchers purchase
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=153
+
+- - Validity purchased vouchers
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=154
+- - purchased vouchers Validity
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=154
+- - vouchers purchased valid days
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=154
+
+- - Hotels participating World Privileges offer
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=155
+- - participating World of Privileges offer
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=155
+
+- - Two kinds vouchers available purchase
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=156
+- - vouchers available purchase
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=156
+
+- - Apply for World of Privileges
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=157
+- - application World of Privileges
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=157
+- - World Privileges apply
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=157
+
+- - Portal we use to as a search engine for sourcing
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=158
+- - Portal search engine sourcing
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=158
+
+- - Charges Pre Medical Test and these charges reimbursed
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=159
+- - Pre Medical Test Charges reimbursment
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=159
+
+- - Apply for LTA in Staff level
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=160
+- - Apply LTA Staff level
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=160
+- - LTA Staff level
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=160
+
+- - Criteria for applying LTA in Staff Level
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=161
+- - applying LTA Staff Level criteria
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=161
+
+- - Housing Loan tie up bank
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=162
+- - bank Housing Loan tie up
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=162
+
+- - Criteria apply Housing Loan
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=163
+- - apply Housing Loan eligibility
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=163
+
+- - Process apply Housing Loan
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=164
+- - Procedure apply Housing Loan
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=164
+- - Housing Loan process
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=164
+
+- - Rate interest provided company housing loan
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=165
+- - Rate interest housing loan
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=165
+- - company Rate interest housing loan
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=165
+
+- - Vouchers provided winners various competition
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=166
+- - Vouchers winners competition
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=166
+- - winners Vouchers competition
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=166
+
+- - Limit for multiple Housing application
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=167
+- - Limit Housing application
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=167
+- - multiple Housing application limit
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=167
+
+- - Level for tuition fee reimbursement is applicable
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=168
+- - tuition fee reimbursement applicable
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=168
+- - tuition fee reimbursement
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=168
+
+- - Process of Role Model
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=169
+- - Role Model procedure
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=169
+- - procedure Role Model
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=169
+
+- - Level is considered for Role Model
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=170
+- - Level for Role Model
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=170
+
+- - Required signatures While taking the Cooperative Store Vouchers
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=171
+- - signatures for Cooperative Store Vouchers
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=171
+- - Cooperative Store Vouchers
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=171
+- - taking cooperative store vouchers signatures required
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=171
+
+- - Process for applying Tuition Reimbursement
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=172
+- - apply Tuition Reimbursement
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=172
+- - Tuition Reimbursement
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=172
+
+- - Whom to coordinate Vouchers Shopper Stop, Big Bazaar and PVR Cinema
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=173
+- - Vouchers Shopper Stop, Big Bazaar and PVR Cinema
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=173
+- - Vouchers Shopper Stop
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=173
+- - Vouchers Big Bazaar
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=173
+- - Vouchers PVR Cinema
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=173
+
+- - Process to become Member of Cooperative Store
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=174
+- - Member of Cooperative Store
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=174
+- - procedure Member Cooperative Store
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=174
+
+- - Membership money refundable
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=175
+- - Membership money
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=175
+- - refundable Membership money
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=175
+
+- - Cooperative Store Registered
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=176
+- - Register Cooperative Store
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=176
+
+- - Audit Period of Cooperative Store
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=177
+- - Cooperative Store Audit Period
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=177
+
+- - Process for Associate gives additional six offs
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=178
+- - Associate additional six offs
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=178
+- - additional six leaves
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=178
+- - additional six offs associate
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=178
+- - additional six offs given associate
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=178
+
+- - Additional off be en-cashed
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=179
+- - Additional leave encash
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=179
+- - additional off encashed
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=179
+
+- - Access PF application forms
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=180
+- - Access Provident fund application forms
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=180
+- - Provident fund forms
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=180
+- - access PF application forms
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=180
+
+- - Apply for PF loan online
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=181
+- - Provident Fund loan online
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=181
+- - apply PF loan online
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=181
+
+- - Check leave balance online
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=182
+- - leave balance online
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=182
+- - leave balance online
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=182
+
+- - Check PF balance online
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=183
+- - Provident Fund balance
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=183
+- - check PF balance online.
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=183
+
+- - Types of loan facility is available against PF contribution
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=184
+- - loan facility against PF contribution
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=184
+- - types loan facility against PF contribution
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=184
+- - types loan facility available against PF contribution
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=184
+- - loan facility available PF contribution
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=184
+- - types loan facility available PF contribution
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=184
+
+- - Break lock in Ladies Locker
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=185
+- - Break lock in Gsnts Locker
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=185
+- - Break lock Locker
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=185
+- - break lock Ladies Gents Locker case someone loses key
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=185
+
+- - Change the Mobile number in SmartMuster App
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=186
+- - Change Mobile number SmartMuster App
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=186
+- - SmartMuster App Change Mobile number
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=186
+- - change mobile change SmartMuster App
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=186
+
+- - Access SmartMuster app on new mobile
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=187
+- - SmartMuster app new mobile
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=187
+- - new mobile SmartMuster
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=187
+- - mobile changed access SmartMuster app mobile
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=187
+
+- - Documents to be submitted by candidate to HR prior to joining
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=188
+- - Documents HR prior to joining
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=188
+- - Documents joining
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=188
+- - joining Documents to HR
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=188
+- - submit joining Documents to HR
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=188
+- - documents submitted candidate HR prior joining initiating background verification
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=188
+
+- - What EDLI how I am benifited.
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=189
+- - EDLI benifits
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=189
+- - Benifits of EDLI
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=189
+- - EDLI benifited
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=189
+
+- - PF loan eligibility during covid.
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=190
+- - covid Povident Fund loan eligibility
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=190
+- - PF loan eligibility during covid
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=190
+
+- - Calculation for gratuity payment
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=191
+- - Calculation gratuity
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=191
+- - gratuity Calculation
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=191
+- - calculation gratuity payment
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=191
+
+- - Leave Calendar
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=192
+- - holiday list
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=192
+- - Leave Calendar
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=192
+
+- - Available Medical benefit
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=193
+- - Medical benefit
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=193
+- - Medical benefit available case medical expense
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=193
+
+- - What policy Sunday regular weekly off and when there 5 Sundays month.
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=194
+- - policy Sunday weeky off and 5 Sundays month.
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=194
+- - policy Sunday regular weeky off 5 Sundays month
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=194
+
+- - Process getting the MRF approved
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=195
+- - get MRF approved
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=195
+- - procedure MRF approval
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=195
+- - process getting MRF approved
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=195
+
+- - What is the UAN no and how I am benifited from it
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=196
+- - UAN number and how I am benifited from it
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=196
+- - UAN number benifits
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=196
+- - provident fund  benifits
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=196
+- - UAN benifited
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=196
+
+- - Portal we use search engine for sourcing
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=197
+- - Portal search engine sourcing
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=197
+- - Portal search engine
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=197
+- - portal search engine sourcing
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=197
+
+- - Eligibility for gratuity payment
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=198
+- - gratuity payment eleigible
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=198
+- - eligible gratuity payment
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=198
+
+- - PF pension Calculation
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=199
+- - Provident Fund pension Calculation
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=199
+- - PF Calculation
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=199
+- - eligible PF pension calculated
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=199
+
+- - Eligible apply loan PF
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=200
+- - Eligible PF loan
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=200
+- - PF loan eligibility
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=200
+- - eligible apply loan PF
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=200
+
+- - Mediclaim benefit covered family members
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=201
+- - Mediclaim benefit
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=201
+- - family members covered Mediclaim
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=201
+- - covered under Mediclaim benefit
+  - select  op_id,HINT_TEXT,response,Benefits_Type,Sub_Benefits_Type,Location_id from operations_MyTaj where issue_id=201
+
+

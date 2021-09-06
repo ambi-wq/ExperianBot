@@ -1,0 +1,132 @@
+categories:
+- Reminders
+conversations:
+
+- - my document
+  - document
+- - document
+  - document
+- - show document
+  - document
+- - document show
+  - document
+
+- - ticket status
+  - show ticket
+- - status ticket
+  - show ticket
+
+- - show my ticket status
+  - ticket
+- - show status of my ticket
+  - ticket
+- - know ticket status
+  - ticket
+- - know status ticket
+  - ticket
+
+
+- - add reminders
+  - reminder form
+- - add new reminders
+  - reminder form
+- - Set reminder
+  - reminder form
+- - Set reminders
+  - reminder form
+- - create reminders
+  - reminder form
+- - set appointment
+  - reminder form
+
+- - Show reminders
+  - select  main_op_id,title,cat1,cat2,cat3,cat4,response,heading from main_operations where main_op_id=35
+- - show reminder details
+  - select  main_op_id,title,cat1,cat2,cat3,cat4,response,heading from main_operations where main_op_id=35
+- - show details set reminders
+  - select  main_op_id,title,cat1,cat2,cat3,cat4,response,heading from main_operations where main_op_id=35
+- - show appointment
+  - select  main_op_id,title,cat1,cat2,cat3,cat4,response,heading from main_operations where main_op_id=35
+
+- - notifications
+  - notify
+- - show notifications
+  - notify
+
+- - reminder today
+  - today
+- - today reminder
+  - today
+- - appointment today
+  - today
+- - today appointment
+  - today
+- - meeting today
+  - today
+- - today meeting
+  - today
+
+
+- - reminder tomorrow
+  - tomorrow
+- - tomorrow reminder
+  - tomorrow
+- - appointment tomorrow
+  - tomorrow
+- - tomorrow appointment
+  - tomorrow
+- - meeting tomorrow
+  - tomorrow
+- - tomorrow meeting
+  - tomorrow
+
+- - reminder week
+  - week
+- - weekly reminder
+  - week
+- - appointment week
+  - week
+- - weekly appointment
+  - week
+- - meeting week
+  - week
+- - weekly meeting
+  - week
+
+- - reminder month
+  - month
+- - month reminder
+  - month
+- - appointment month
+  - month
+- - month appointment
+  - month
+- - meeting month
+  - month
+- - month meeting
+  - month
+
+- - meeting all
+  - all
+- - all meeting
+  - all
+- - meeting
+  - all
+- - reminder all
+  - all
+- - all reminder
+  - all
+- - reminder
+  - all
+- - appointment all
+  - all
+- - all appointment
+  - all
+- - appointment
+  - all
+- - upcoming meeting
+  - all
+- - upcoming appointment
+  - all
+- - upcoming reminder
+  - all

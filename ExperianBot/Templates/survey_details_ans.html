@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Question-Answer</title>
+</head>
+<body>
+<h1>Here are Details of Survey for {{ user }}</h1>
+{% for ans in ans_tags %}
+      <p style="color:red;text-align:left"> {{ ans[3] }}</p>
+      <p style="color:blue;text-align:left"> {{ ans[2] }}</p>
+     {% endfor %}
+</body>
+</html>
